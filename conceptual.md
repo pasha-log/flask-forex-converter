@@ -15,7 +15,7 @@ Python is able to connect with frameworks that create servers, and create sessio
   can try to get a missing key (like "c") *without* your programming
   crashing.  
 
-get(key,def_val) method is useful when we have to check for the key. If the key is present, the value associated with the key is printed, else the def_value passed in arguments is returned.
+get(key,def_val) method is useful when we have to check for the key. If the key is present, the value associated with the key is printed, else the def_value passed in arguments is returned. You can push another key value pair onto that dictionary as well. 
 
 - What is a unit test?  
 A unit test is for testing a singular function that is merely part of a larger project to see if it really returns what we want it to. 
