@@ -9,12 +9,23 @@
 }
 
 .messages p {
+    margin: auto;
+    width: 50%;
     padding: 1rem; 
     border-radius: 1rem;
     font-size: 1.5rem;
     box-shadow: 0 3px 5px rgb(0, 0, 0, 0.2);
 }
 
+body {
+    font-family: sans-serif;
+    background: #222;
+    color: white;
+    font-size: 2vw;
+    text-align: center;
+    padding: 4.9em;
+    background: linear-gradient(180deg, #2E2E3A 0%, #0C0C2C 100%);
+  }
 
  
   
