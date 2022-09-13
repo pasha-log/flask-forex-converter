@@ -17,6 +17,10 @@
     box-shadow: 0 3px 5px rgb(0, 0, 0, 0.2);
 }
 
+title {
+    font-family: 'Orbitron', sans-serif;
+}
+
 body {
     font-family: sans-serif;
     background: #222;
