@@ -29,7 +29,18 @@ body {
     text-align: center;
     padding: 4.9em;
     background: linear-gradient(180deg, #2E2E3A 0%, #0C0C2C 100%);
-  }
+}
+
+.submit {
+    transition-duration: 0.4s;
+    background-color: white; 
+    border-radius: 7px;
+}
+
+.submit:hover {
+    background-color: #4635ff; 
+    color: white;
+}
 
  
   
