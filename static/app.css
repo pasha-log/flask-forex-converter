@@ -17,12 +17,12 @@
     box-shadow: 0 3px 5px rgb(0, 0, 0, 0.2);
 }
 
-title {
-    font-family: 'Orbitron', sans-serif;
-}
+/* title {
+} */
 
 body {
-    font-family: sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    /* font-family: sans-serif; */
     background: #222;
     color: white;
     font-size: 2vw;
